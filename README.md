@@ -1,5 +1,6 @@
 ### Hello there 👋
-!(./images/bannergithubcomplete.gif)
+![bannergithubcomplete](https://github.com/CodeByGab/CodeByGab/assets/68762913/719d596b-72ec-4559-93c6-857100a369b1)
+
 - 🔭 I’m currently working on Full-stack roadmap
 - 🌱 I’m currently learning Tailwind, React
 - 💬 Ask me about Web Interfaces with Css
