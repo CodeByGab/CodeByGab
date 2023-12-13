@@ -10,7 +10,7 @@
 - 😄 Pronouns: Any Pronouns
 - ⚡ Fun fact: Intermediate Spanish
 - 🎨 Passionate about both art and programming, I find joy in merging the two worlds!
-- 
+
 ### Skills
 
 <p align="left">
